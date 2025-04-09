@@ -191,7 +191,7 @@ html {
     width: 600px;
     position: absolute;
     top: 0;
-    right: -30px;
+    right: 0px;
     transform: rotate(180deg);
 }
 
@@ -336,7 +336,7 @@ html {
 
     .works--globus-big {
         width: 350px;
-        right: -40px;
+        right: 0px;
         top: 90px;
     }
 
