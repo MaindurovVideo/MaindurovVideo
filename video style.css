@@ -193,7 +193,9 @@ body {
 }
 
 .works--video-first {
-    border-radius: 30px;
+    border-radius: 20px;
+    position: relative;
+    z-index: 20;
 }
 
 .contacts {
