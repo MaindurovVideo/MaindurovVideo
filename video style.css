@@ -194,6 +194,8 @@ html {
 }
 
 .works--video-first {
+    width: 700px;
+    height: 400px;
     border-radius: 20px;
     position: relative;
     z-index: 20;
